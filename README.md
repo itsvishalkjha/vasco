@@ -1,2 +1,0 @@
-# vasco
-English Project prototype 
